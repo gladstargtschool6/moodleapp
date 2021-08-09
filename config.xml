@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="39502" id="com.moodle.moodlemobile" ios-CFBundleVersion="3.9.5.2" version="3.9.5" versionCode="39502" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Moodle</name>
-    <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+    <name>Gladstar Gifted and Talented School</name>
+    <description>Facilitating Functional Education For The Next Innovator, Entrepreneurs and Leaders</description>
+    <author email="admin@gladstar.sch.ng" href="http://www.gladstar.sch.ng">Gladstar Gifted and Talented School team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
