@@ -14,10 +14,10 @@
     <allow-navigation href="data:*" />
     <allow-navigation href="*" />
     <allow-intent href="*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
+    <allow-intent href="tel:+2348059879785" />
+    <allow-intent href="sms:+2348059879785" />
+    <allow-intent href="mailto:admin@gladstar.sch.ng" />
+    <allow-intent href="geo:Lagos,Nigeria" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
